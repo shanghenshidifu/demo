@@ -14,7 +14,7 @@ import java.util.List;
 
 /**配置
  * @author RocLiu [apedad@qq.com]
- * @version 1.0
+ * @version 1.0e
  */
 @Service("userInfoService")
 public class UserInfoServiceImpl implements UserInfoService {
